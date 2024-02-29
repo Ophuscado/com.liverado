@@ -1,6 +1,6 @@
 Acknowledgments: https://liverado.com/contributors
 Canonical: https://liverado.com/.well-known/security.txt
-Contact: mailto:security@liverado.com
+Contact: mailto:support@liverado.com
 Expires: Sat, 31 Dec 2029 23:59 +0000
 Encryption: https://liverado.com/.well-known/security.pub
 Preferred-Languages: en, es, zh
